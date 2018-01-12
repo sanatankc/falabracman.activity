@@ -1,0 +1,7 @@
+[Activity]
+name = Simon Game
+activity_version = 1
+bundle_id = org.sanatankc.Simon
+exec = sugar-activity-web
+icon = activity-icon
+repository = https://github.com/sanatankc/SimonGame.activity.git
